@@ -2487,6 +2487,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 991px) {
   .banner-right {
+    margin-top: 30px;
     align-self: center !important;
   }
 }
